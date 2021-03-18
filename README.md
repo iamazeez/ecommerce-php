@@ -14,6 +14,23 @@ Step to install locally:
 * Now Enjoy!!
 
 ## Screenshots
-*** Home page
+### Home page
+
 ![Home page](https://github.com/iamazeez/ecommerce-php/blob/master/screenshot/home.png "Home page")
+
+### Login
+
+![Login](https://github.com/iamazeez/ecommerce-php/blob/master/screenshot/login.png "Login")
+
+### Cart
+
+![Cart](https://github.com/iamazeez/ecommerce-php/blob/master/screenshot/cart.png "Cart")
+
+### Checkout
+
+![Checkout](https://github.com/iamazeez/ecommerce-php/blob/master/screenshot/checkout.png "Checkout")
+
+### My Account
+
+![My Account](https://github.com/iamazeez/ecommerce-php/blob/master/screenshot/my%20account.png "My account")
 
