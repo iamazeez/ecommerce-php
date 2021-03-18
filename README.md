@@ -1,1 +1,7 @@
-# Ecommerce website with pure php h1
+# Ecommerce website with pure php
+
+## Technologies
+Project is created with:
+* Php
+* Javascript
+* Ajax
