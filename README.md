@@ -12,3 +12,8 @@ Step to install locally:
 * Create a database name `ecommerce`
 * You will get an ecommerce.sql file in directory, import that sql file in your mysql 
 * Now Enjoy!!
+
+## Screenshots
+*** Home page
+![Home page](https://github.com/iamazeez/ecommerce-php/blob/master/screenshot/home.png "Home page")
+
